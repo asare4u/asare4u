@@ -7,9 +7,9 @@
 <h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3><br>
 
 <div align= "center">
-<h4>I have a thing for cyber and anything related 🤖</h4>
+<strong>I have a thing for cyber and anything related 🤖</strong>
     
-🔭 I’m currently working on <strong>Algorithms</strong>
+🔭 I’m currently working on <strong>Algorithms</strong><br>
 
 🌱 I’m currently learning <strong>Strapi, Flutter,AWS & anything catchy✨</strong>
 
