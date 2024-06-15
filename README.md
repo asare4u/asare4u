@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Asare+Here!+👋;+Welcome+to+my+space!+🤗+✨;" />
 </h1>
 
-<h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3>
+<h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3><br>
 
 <p align= "center">I have a thing for cyber and anything related 🤖</p>
 
