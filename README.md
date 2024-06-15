@@ -6,9 +6,9 @@
 
 <h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3><br>
 
-<div align= "center">I have a thing for cyber and anything related 🤖
-🔭 I’m currently working on <strong>Algorithms</strong>
-🌱 I’m currently learning <stong>Strapi, Flutter & anything catchy</stong>
-⚡ Fun fact <strong>Always designing🎨, 🎧listening to music🎵 & Surfing the internet🌎🌐</strong>
+<div align= "center">I have a thing for cyber and anything related 🤖<br>
+🔭 I’m currently working on <strong>Algorithms</strong><br>
+🌱 I’m currently learning <strong>Strapi, Flutter & anything catchy</stong><br>
+⚡ Fun fact <strong>Always designing🎨, 🎧listening to music🎵 & Surfing the internet🌎🌐</strong><br>
 🤝 I'm open to collaborate <strong>to open-source projects and connecting with fellow developers</strong>
 </div>
