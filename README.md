@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asare4u.asare4u" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Asare+Here!+👋;+Welcome+to+my+space!✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Asare+Here!+👋;+Welcome+to+my+space!+🤗+✨;" />
 </h1>
 
 <!-- ## Hi there 👋 -->
