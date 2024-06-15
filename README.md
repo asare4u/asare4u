@@ -6,6 +6,8 @@
 
 <h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3>
 
+<p align= "center">I have a thing for cyber and anything related.</p>
+
 <!-- ## Hi there 👋 -->
 
 <!--
