@@ -6,21 +6,9 @@
 
 <h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3><br>
 
-<p align= "center">I have a thing for cyber and anything related 🤖</p>
-
-<!-- ## Hi there 👋 -->
-
-<!--
-**asare4u/asare4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">I have a thing for cyber and anything related 🤖
+🔭 I’m currently working on <strong>Algorithms</strong>
+🌱 I’m currently learning <stong>Strapi, Flutter & anything catchy</stong>
+⚡ Fun fact <strong>Always designing🎨, 🎧listening to music🎵 & Surfing the internet🌎🌐</strong>
+🤝 I'm open to collaborate <strong>to open-source projects and connecting with fellow developers</strong>
+</div>
