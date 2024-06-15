@@ -6,13 +6,14 @@
 
 <h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3><br>
 
-<div align= "center">I have a thing for cyber and anything related 🤖<br>
+<div align= "center">
+I have a thing for cyber and anything related 🤖
     
-🔭 I’m currently working on <strong>Algorithms</strong><br>
+🔭 I’m currently working on <strong>Algorithms</strong>
 
-🌱 I’m currently learning <strong>Strapi, Flutter & anything catchy</stong><br>
+🌱 I’m currently learning <strong>Strapi, Flutter & anything catchy</strong>
 
-⚡ Fun fact <strong>Always designing🎨, 🎧listening to music🎵 & Surfing the internet🌎🌐</strong><br>
+⚡ Fun fact <strong>Always designing🎨, 🎧listening to music🎵 & Surfing the internet🌎🌐</strong>
 
 🤝 I'm open to collaborate <strong>to open-source projects and connecting with fellow developers</strong>
 
