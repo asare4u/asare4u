@@ -5,8 +5,9 @@
 </h1>
 
 <h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3><br>
+
 <div align= "center">
-I have a thing for cyber and anything related 🤖<br><br>
+<h4>I have a thing for cyber and anything related 🤖</h4><br><br><br>
     
 🔭 I’m currently working on <strong>Algorithms</strong>
 
