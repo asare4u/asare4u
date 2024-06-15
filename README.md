@@ -14,7 +14,7 @@
     
 🌱 I’m currently learning **Strapi, Flutter, AWS & anything catchy**✨
 
-⚡ Fun fact always **designing🎨, 🎧listening to music🎵 & Surfing the internet**🌎
+⚡ Fun fact: Always **designing🎨, 🎧listening to music🎵 & Surfing the internet**🌎
 
 🤝 I'm open to collaborate to **open-source projects and connecting with fellow developers**👨‍💻
 
@@ -45,10 +45,10 @@
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,react" />
-    <img src="https://skillicons.dev/icons?i=nextjs,python,java,mysql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,github,wordpress" />
+    <img src="https://skillicons.dev/icons?i=windows,nextjs,python,java,cs,cpp,php,mysql,vscode,linux" /><br>
 </div>
 
 <br>
+
+<hr/>
