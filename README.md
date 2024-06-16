@@ -57,7 +57,7 @@
 <br>
 <div align=center>
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asare4u&theme=react&border_radius=10" alt="streak stats"/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asare4u&theme=react&border_radius=10)](https://git.io/streak-stats)
   
   <img src="https://github-readme-stats.vercel.app/api?username=asare4u&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   
