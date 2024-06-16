@@ -33,7 +33,7 @@
  <a href="https://x.com/@LuckyAsare" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
  </a>
- <a href="https://discord.com/@LuckyAsare" target="_blank">
+ <a href="mailto:nkansahasare3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white" target="_blank" />
  </a>
 </div>
