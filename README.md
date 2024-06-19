@@ -61,7 +61,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=asare4u&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   
-  <img width=325 height=211 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asare4u&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 height=211 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asare4u&layout=compact&theme=react&border_radius=10" alt="top langs" /> 
   
 </div>
 
