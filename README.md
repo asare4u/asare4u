@@ -73,3 +73,4 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Thank+you+for+the+visit!+🙏;+See+you+another+time!+😊;+Byeee!+👋" />
 </div>
+
