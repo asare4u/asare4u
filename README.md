@@ -10,7 +10,7 @@
 
 <div align = "center">
     
-🔭 I’m currently working on **Algorithms**📊
+🔭 I’m currently working on **Algorithms**📊 
     
 🌱 I’m currently learning **Strapi, Flutter, AWS & anything catchy**✨
 
