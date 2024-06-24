@@ -12,7 +12,7 @@
     
 🔭 I’m currently working on **Algorithms**📊 
     
-🌱 I’m currently learning **Strapi, Flutter, AWS & anything catchy**✨
+🌱 I’m currently learning **Strapi, Flutter, AWS & anything catchy**✨ 
 
 ⚡ Fun fact: Always **designing🎨, 🎧listening to music🎵 & Surfing the internet**🌎
 
