@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a passionate UI/UX designer and a Frontend developer.</h3>
 
-<br>  
+<br>
 
 <div align = "center">
     
